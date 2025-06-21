@@ -19,7 +19,7 @@ I've also recently been doing some web development with the [Invenio](https://in
 
 [Here](https://github.com/leeds-indoor-air/Touch_transfer_experiment_data_analysis) you'll find some regression modelling I did using [Stan](https://mc-stan.org/) to support a study of how room temperature and relative humidity affect rates of touch-transfer of contaminants onto fingers from various surface materials.  You can find the accompanying paper [here](https://www.mdpi.com/1999-4915/14/5/1048).
 
-Check out [some ongoing work here](https://github.com/tranquil-llama/QMRA_DEVS) using [adevs](https://web.ornl.gov/~nutarojj/adevs/) (a Discrete Event System simulator) to understand how patterns of building occupancy influence the risk transmission of airborne pathogens in indoor public spaces.  This project is intended to combine with outputs of a flow solver, such as [CONTAM](https://www.nist.gov/services-resources/software/contam).
+Check out [some ongoing work here](https://github.com/tranquil-llama/QMRA_DEVS) using [adevs](https://web.ornl.gov/~nutarojj/adevs/) (a Discrete Event System simulator) to understand how patterns of building occupancy influence the risk of transmission of airborne pathogens in indoor public spaces.  This project is intended to combine with outputs of a flow solver, such as [CONTAM](https://www.nist.gov/services-resources/software/contam).
 
 
 
